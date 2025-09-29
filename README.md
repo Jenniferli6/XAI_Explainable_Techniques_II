@@ -1,4 +1,4 @@
-# Financial Risk Assessment – Explainable AI Techniques_II
+# Financial Risk Assessment – Explainable AI Techniques II
 
 This project explores **explainable machine learning techniques** applied to the **Financial-Risk-Assessment dataset** from OpenML. The main goal is to predict borrowers’ **credit risk rating** (low, medium, high) and interpret model behavior using **PDP, ICE, and ALE plots**.
 
